@@ -23,6 +23,10 @@ print("22th time -commit")
 print("23th time -commit")
 print("24th time -commit")
 print("25th time -commit")
+<<<<<<< HEAD
 print("26th time -commit")
 print("27th time -commit")
 print("28th time -commit")
+=======
+print("26th time -commit")
+>>>>>>> 2babfa1fad744a7008adb3f58af4e0875e0236de
