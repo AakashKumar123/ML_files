@@ -8,3 +8,15 @@ print("pYTHON 14")
 print("pYTHON 15")
 print("pYTHON 16")
 print("pYTHON 17")
+print("pYTHON 18")
+"""
+Kuru 8  https://www.kuru.io/trade/
+Lffg 9
+Dusted 10  https://www.dusted.app/rooms/monad-testnet/native  (Daaaily five)
+livr 11
+kizzy 12
+ipriori 13  https://stake.apr.io/
+Kintsu 14
+fantasy 15
+
+"""
