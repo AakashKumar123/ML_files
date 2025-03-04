@@ -11,6 +11,7 @@ print("pYTHON 17")
 print("pYTHON 18")
 print("pYTHON 19")
 print("pYTHON 20")
+print("pYTHON 21")
 """
 Kuru 8  https://www.kuru.io/trade/
 Lffg 9
