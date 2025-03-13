@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+        <html lang="en">
+        <head>
+            <meta name="viewport" content="width=device-width, initial-scale=1">
+            <meta charset="UTF-8">
+            <meta name="description" content="Smart Notice Board with ESP8266">
+            <title>Smart Notice Board</title>
+            <script>
+                function SendData(event) {
+                    event.preventDefault();
+                    var request = new XMLHttpRequest();
+                    var strLine = '&MSG=' + document.getElementById('data_form').Message.value;
+                    strLine += '/&SD=' + document.getElementById('data_form').ScrollType.value;
+                    strLine += '/&I=' + document.getElementById('data_form').Invert.value;
+                    strLine += '/&SP=' + document.getElementById('data_form').Speed.value;
+                    request.open('GET', strLine, false);
+                    request.send(null);
+                }
+            </script>
+            <style>
+                body { font-family: Arial, sans-serif; text-align: center; }
+                input, button, label { margin: 10px; }
+            </style>
+        </head>
+        <body>
+            <h2>Smart Notice Board</h2>
+            <form id="data_form" onsubmit="SendData(event)">
+                <label>Message:</label><br>
+                <input type="text" name="Message" id="Message" required><br>
+                <label>Scroll Type:</label>
+                <input type="radio" name="ScrollType" value="L" checked> Left
+                <input type="radio" name="ScrollType" value="R"> Right<br>
+                <label>Invert Text:</label>
+                <input type="radio" name="Invert" value="0" checked> Normal
+                <input type="radio" name="Invert" value="1"> Inverse<br>
+                <label>Speed:</label>
+                <input type="range" name="Speed" min="10" max="200" value="100"><br>
+                <button type="submit">Send Data</button>
+            </form>
+        </body>
+        </html>
