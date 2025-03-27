@@ -1,5 +1,6 @@
 print("pYTHON  30")
 print("pYTHON  31")
+print("pYTHON  32")
 """
 Kuru 8  https://www.kuru.io/trade/
 Lffg 9
