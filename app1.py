@@ -14,6 +14,7 @@ print("pYTHON  42")
 print("pYTHON  43")
 print("pYTHON  44")
 print("pYTHON  45")
+print("pYTHON  46")
 
 """
 Kuru 8  https://www.kuru.io/trade/
