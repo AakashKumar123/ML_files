@@ -15,7 +15,8 @@ print("pYTHON  43")
 print("pYTHON  44")
 print("pYTHON  45")
 print("pYTHON  46")
-
+print("pYTHON  47")
+print("pYTHON  48")
 """
 Kuru 8  https://www.kuru.io/trade/
 Lffg 9
