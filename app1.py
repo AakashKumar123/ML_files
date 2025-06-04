@@ -46,6 +46,7 @@ print("pYTHON  74")
 print("pYTHON  75")
 print("pYTHON  76")
 print("pYTHON  77")
+print("pYTHON  78")
 """
 Kuru 8  https://www.kuru.io/trade/
 Lffg 9
