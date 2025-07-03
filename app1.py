@@ -71,6 +71,7 @@ print("pYTHON  99")
 print("pYTHON  100")
 print("pYTHON  101")
 print("pYTHON  102")
+print("pYTHON  103")
 
 """
 Kuru 8  https://www.kuru.io/trade/
