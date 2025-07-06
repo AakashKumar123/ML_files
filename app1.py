@@ -74,6 +74,7 @@ print("pYTHON  102")
 print("pYTHON  103")
 print("pYTHON  104")
 print("pYTHON  105")
+print("pYTHON  106")
 """
 Kuru 8  https://www.kuru.io/trade/
 Lffg 9
