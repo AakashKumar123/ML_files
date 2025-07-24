@@ -87,6 +87,7 @@ print("pYTHON  115")
 print("pYTHON  116")
 print("pYTHON  117")
 print("pYTHON  118")
+print("pYTHON  119")
 """
 Kuru 8  https://www.kuru.io/trade/
 Lffg 9
